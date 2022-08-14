@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAI,IAAI,GAAG,QAAQ,CAAC,aAAa,CAAC,OAAO,CAAC,AAAC,EAAC,gBAAgB;AAE5D,IAAI,CAAC,SAAS,GAAG,CAAC,CAAC","sources":["src/main.js"],"sourcesContent":["let demo = document.querySelector(\"#demo\"); //通过css选择器找到这个元素\r\n\r\ndemo.innerHTML = 1;\r\n"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
